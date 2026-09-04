@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search_hint">Search notes…</string>
+    <string name="all_notes">All</string>
+    <string name="pinned_notes">Pinned</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Start writing…</string>
+    <string name="pin_note">Pin note</string>
+    <string name="unpin_note">Unpin note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="save_note">Done</string>
+    <string name="empty_notes_title">No notes yet</string>
+    <string name="empty_notes_desc">Tap the button below to jot down your thoughts, quick lists, or great ideas.</string>
+    <string name="no_results_title">No matching notes</string>
+    <string name="no_results_desc">Try searching with different keywords or filter tags.</string>
+    <string name="confirm_delete_title">Delete note?</string>
+    <string name="confirm_delete_desc">This note will be permanently deleted.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="color_picker">Note color</string>
+</resources>
